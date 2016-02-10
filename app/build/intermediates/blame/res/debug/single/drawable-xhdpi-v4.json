@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/breakoutcomplete.png",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/src/main/res/drawable-xhdpi/breakoutcomplete.png"
+    },
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/breakoutgameover.png",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/src/main/res/drawable-xhdpi/breakoutgameover.png"
+    },
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/breakouttitle.jpg",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/src/main/res/drawable-xhdpi/breakouttitle.jpg"
+    },
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/brick.jpg",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/src/main/res/drawable-xhdpi/brick.jpg"
+    }
+]

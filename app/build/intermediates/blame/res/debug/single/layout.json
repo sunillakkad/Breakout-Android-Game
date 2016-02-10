@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/build/intermediates/res/merged/debug/layout/activity_game_over.xml",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/src/main/res/layout/activity_game_over.xml"
+    },
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/build/intermediates/res/merged/debug/layout/activity_breakout_top.xml",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/src/main/res/layout/activity_breakout_top.xml"
+    },
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/build/intermediates/res/merged/debug/layout/activity_main_menu.xml",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/src/main/res/layout/activity_main_menu.xml"
+    },
+    {
+        "merged": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/build/intermediates/res/merged/debug/layout/activity_game_complete.xml",
+        "source": "/Users/sunilkumarlakkad/Desktop/GitHub/BreakOut/app/src/main/res/layout/activity_game_complete.xml"
+    }
+]
